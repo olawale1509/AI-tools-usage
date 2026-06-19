@@ -1,0 +1,108 @@
+{
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "sql_courses",
+      "database": "postgres",
+      "username": "postgres"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Olawale_Yusuf",
+      "database": "postgres",
+      "username": "postgres"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Learn_Yusuf",
+      "database": "postgres",
+      "username": "postgres"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Olawale",
+      "database": "my_own",
+      "username": "postgres"
+    },
+    {
+      "editor.formatOnSave": true
+    },
+    {
+      "editor.wordWrap": "On"
+    },
+    {
+      "editor.minimap.enabled": true
+    },
+    {
+      "editor.stickyroll.enabled": true
+    },
+    {
+      "editor.bracketPairColorization.enabled": true
+    },
+    {
+      "editor.linkedEditing": true
+    },
+    {
+      "editor.inlineSuggest.enabled": true
+    },
+    {
+      "file.autoSave": "afterDelay"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Olawale_Yusuf",
+      "database": "my_own",
+      "username": "postgres"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Olawale",
+      "database": "postgres",
+      "username": "postgres"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Art_Intel",
+      "database": "ai_users",
+      "username": "postgres"
+    },
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Alt_Intel",
+      "database": "ai_users",
+      "username": "postgres"
+    }
+  ]
+}
