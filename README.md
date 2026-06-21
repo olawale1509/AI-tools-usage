@@ -176,4 +176,7 @@ Stop measuring AI success purely by "hours saved." The low satisfaction scores a
 
 Actionable Example: Implement a metric called "Net Usable Output" (NUO). If an AI tool writes 1,000 lines of code (saving 5 hours), but it takes a Senior Developer 4 hours to debug the "Wrong Outputs" and "Low Accuracy," the ROI is fundamentally negative. Audit vendors quarterly strictly on their NUO metrics.
 
+![Failure by use case](assets\3_failures\failure_by_use_case.png)
+![Reaseons for failure](assets\3_failures\failure_reasons_incidents.png)
+
 # Conclusion
