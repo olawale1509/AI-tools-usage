@@ -1,4 +1,5 @@
 --- let us create table into the schema of the new database created
+set search_path to ai_users;
 CREATE table ai_users(
     user_id INT NOT NULL PRIMARY KEY,
     age INT,
